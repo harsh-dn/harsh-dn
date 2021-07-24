@@ -48,7 +48,6 @@
 
 [website]: https://harsh-vardhan.netlify.app
 [youtube]: https://www.youtube.com/channel/UC4Ovbh1UsLSnHjkJOO1DLvw
-[instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://www.linkedin.com/in/harsh-vardhan-552838171
 [facebook]: https://www.facebook.com/profile.php?id=100026002803901
 [instagram]: https://www.instagram.com/harsh_dn
