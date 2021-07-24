@@ -41,7 +41,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="harsh's GitHub Stats" src="https://github.com/harsh-dn" />
+  <img align="left" alt="harsh's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=harsh-dn&show_icons=true&hide_border=true" />
 
 </details>
 
