@@ -1,6 +1,6 @@
 ### Hi there, This is [Harsh][website] 👋
 
-## I'm a Software Engineer, Mechanical Engineer, Developer, and Cricketer!!
+## I'm a Software Developer, Mechanical Engineer, and Cricketer!!
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Get placed in top companies as Software developer
