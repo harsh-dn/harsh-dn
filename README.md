@@ -38,15 +38,12 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
  <a href="https://github.com/harsh-dn">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harsh-dn&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-dn&theme=buefy&layout=compact" />
 </a>
 
-</details>
 
 
 [website]: https://harsh-vardhan.netlify.app
