@@ -3,7 +3,7 @@
 ## I'm a Software Developer, Mechanical Engineer, and Cricketer!!
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Get placed in top companies as Software developer
+- 🥅 2022 Goals: Develop some good scripts and learn designs
 - ⚡ Fun fact: I love to debate on politics and economics
 
 
